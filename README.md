@@ -8,18 +8,27 @@ This web application allows users to upload CSV files, display data from the CSV
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- 
-## How to Run 
-#Backend
-1)cd csv-upload-app
-2)npm i
-3)npm start
-
-#Frontend
-1)cd client
-2)npm i
-3)node server.js
-
+  
+## Installation
+>For Backend
+- Fork the repo
+- Clone the repo
+   ```sh
+   git clone https://github.com/Deepanshu1008/Data-Driven-Web-Application.git
+   ```
+- Install NPM packages and Run the Command
+   ```sh
+   cd csv-upload-app
+   npm install
+   npm start
+   ```
+   
+>For Frontend
+ ```sh
+   cd client
+   npm install
+   node server.js
+   ```
 
   
 ## Technologies Used
