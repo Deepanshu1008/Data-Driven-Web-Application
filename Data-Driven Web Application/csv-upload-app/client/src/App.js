@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Upload from './components/Upload';
-import DataDisplay from './components/DataDisplay';
+import DataDisplay from './components/Datadisplay';
 import SubscriptionCalculator from './components/SubscriptionCalculator';
 
 const App = () => {
