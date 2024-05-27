@@ -10,12 +10,12 @@ This web application allows users to upload CSV files, display data from the CSV
 - [Installation](#installation)
   
 ## Technologies Used
-Node.js
-Express.js
-React
-MySQL
-Bootstrap (or any other CSS framework you used)
-Other relevant libraries or frameworks
+-Node.js
+-Express.js
+-React
+-MySQL
+-Bootstrap (or any other CSS framework you used)
+
 
 ## Description
 
