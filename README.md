@@ -8,10 +8,14 @@ This web application allows users to upload CSV files, display data from the CSV
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+  
+## Technologies Used
+Node.js
+Express.js
+React
+MySQL
+Bootstrap (or any other CSS framework you used)
+Other relevant libraries or frameworks
 
 ## Description
 
@@ -33,4 +37,4 @@ The CSV Upload Web Application is designed to handle CSV file uploads efficientl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Deepanshu1008/csv-upload-web-app.git
+   git clone https://github.com/Deepanshu1008/Data-Driven-Web-Application.git
