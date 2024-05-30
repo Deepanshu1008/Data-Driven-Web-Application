@@ -6,11 +6,9 @@ This web application allows users to upload CSV files, display data from the CSV
 
 - [Description](#description)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
   
 ## Installation
->For Backend
 - Fork the repo
 - Clone the repo
    ```sh
@@ -18,28 +16,13 @@ This web application allows users to upload CSV files, display data from the CSV
    ```
 - Install NPM packages and Run the Command
    ```sh
-   cd csv-upload-app
    npm install
    npm start
    ```
    
->For Frontend
- ```sh
-   cd client
-   npm install
-   node server.js
-   ```
-
-  
 ## Technologies Used
--Node.js
-
--Express.js
 
 -React
-
--MySQL
-
 
 
 ## Description
@@ -53,13 +36,6 @@ The CSV Upload Web Application is designed to handle CSV file uploads efficientl
 - Data display with pagination for large datasets.
 - Subscription pricing calculator based on credit score and credit lines from the uploaded CSV data.
 
-## Demo
 
-[Link to Live Demo](#) [(https://data-driven-web-application-supersix.vercel.app/)]
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Deepanshu1008/Data-Driven-Web-Application.git
