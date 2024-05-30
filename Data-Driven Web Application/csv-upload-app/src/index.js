@@ -1,7 +1,8 @@
+// examples/src/index.js
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
-import "./styles.css";
+import CsvInterface from "../../src/CsvInterface";  // Adjust the import path as needed
 
 const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+ReactDOM.render(<CsvInterface />, rootElement);
+
